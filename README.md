@@ -1,2 +1,2 @@
-# R-programing
+# R-programming
 Data Science
